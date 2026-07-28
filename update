@@ -8,7 +8,7 @@
     "description": "Your app version is too old and no longer supported. Please update to the latest version.",
     "isForce": true,
     "isExpired": true,
-    "expiryDate": "2026-07-19",
+    "expiryDate": "2026-08-29",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
   }
